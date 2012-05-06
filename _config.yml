@@ -1,0 +1,5 @@
+pygments: true
+permalink: pretty
+maruku:
+    use-tex: false
+    use-divs: false
